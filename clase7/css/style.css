@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+    background-color:  #E6E6E6;
+}
+
+h1, h2{
+    color: #005677;
+    background-color: #C4C4C4;
+    letter-spacing: 15px; 
+}
+
+.descripcion{
+    margin-left: 80px;
+}
+
+.fecha{
+    font-weight: 800;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: #005677;
+    font-size: 25px;
+}
